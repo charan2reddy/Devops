@@ -1,0 +1,1 @@
+The main purpose of a router is to connect multiple networks and forward packets destined either for its own networks or other networks.(use of router)
